@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Project Schedule</string>
+    <string name="header_title">ScheduleIt</string>
+
+    <string name="profil_title">Profil</string>
+    <string name="profil_surname">Family name</string>
+    <string name="profil_name">Name</string>
+    <string name="profil_age">Age</string>
+    <string name="profil_status">Status</string>
+    <string name="profil_btn_deco">Log off</string>
+    <string name="profil_content_image">Profil picture</string>
+
+    <string name="create_user_title">Create new User</string>
+    <string name="create_user_surname">Family Name</string>
+    <string name="create_user_name">Name</string>
+    <string name="create_user_parent">Is parent</string>
+    <string name="create_user_age">Age</string>
+    <string name="create_user_pwd">Password</string>
+    <string name="create_user_confirm_pdw">Confirm Password</string>
+    <string name="create_user_btn_create">Create</string>
+
+    <string name="login_title">Connection page</string>
+    <string name="login_nom">Name</string>
+    <string name="login_pwd">Password</string>
+    <string name="login_btn">Log in</string>
+
+
+</resources>

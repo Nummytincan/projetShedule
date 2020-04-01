@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project Schedule</string>
+    <string name="header_title">ScheduleIt</string>
+
+    <string name="profil_title">Profil</string>
+    <string name="profil_surname">Nom</string>
+    <string name="profil_name">Prénom</string>
+    <string name="profil_age">Age</string>
+    <string name="profil_status">Status</string>
+    <string name="profil_btn_deco">Se déconnecter</string>
+    <string name="profil_content_image">Profil picture</string>
+
+    <string name="create_user_title">Création d\'un nouvel utilisateur</string>
+    <string name="create_user_surname">Nom</string>
+    <string name="create_user_name">Prénom</string>
+    <string name="create_user_parent">Est un parent</string>
+    <string name="create_user_age">Age</string>
+    <string name="create_user_pwd">Mot de passe</string>
+    <string name="create_user_confirm_pdw">Confirmer le mot de passe</string>
+    <string name="create_user_btn_create">Créer</string>
+
+    <string name="login_title">Page de connection</string>
+    <string name="login_nom">Nom</string>
+    <string name="login_pwd">Mot de passe</string>
+    <string name="login_btn">Se connecter</string>
+
+</resources>
